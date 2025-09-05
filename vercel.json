@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/:path*",
-      "destination": "https://mangataro.net/:path*"
+      "destination": "https://mangadex.org/:path*"
     }
   ]
 }
